@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.storage_bg_container {
+    background-color: #894bca;
+    height: 40vh;
+    width: 100vw;
+    padding-top: 10px;
+}
+
+.top_card_container {
+    margin-left: 10px;
+}
+
+.card-heading {
+    font-family: 'Bree Serif';
+    color: #ffffff;
+    margin: 16px;
+    font-size: 22px;
+}
+
+.card-img {
+    height: 150px;
+}
+
+.bottom_container {
+    background-color: #ffffff;
+    height: 60vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 18px;
+    padding: 20px;
+}
+
+
+
+.bottom-main-heading {
+    font-family: 'Bree Serif';
+    color: #f780c3;
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+.bottom_row1_container {
+    margin-top: 16px;
+}
+
+.bottom_img {
+    height: 60px;
+    margin-right: 12px;
+}
+
+.bottom_row1_heading {
+    font-family: "Bree Serif";
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.bottom_row1_para {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 12px;
+}
